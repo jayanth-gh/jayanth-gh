@@ -1,142 +1,102 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Illuru Siva Sai Jayanth</h1>
-<h3 align="center">🚀 Java & MERN Developer | AI/LLM Enthusiast | Problem Solver</h3>
-
+<h1 align="center">Illuru Siva Sai Jayanth</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayanth-gh&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+Java & MERN Developer • AI/LLM Enthusiast • Problem Solver
 </p>
 
-<!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F72E&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;AI+%2F+LLM+App+Developer;Flask+%7C+MERN+Stack+Builder;Always+Learning+New+Technologies" />
-</p>
-
-<!-- ================= CODING GIF ================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://komarev.com/ghpvc/?username=jayanth-gh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 **B.Tech CSE — SRM University AP (CGPA: 8.4)**  
-🧠 **LLM Apps Intern — Edubot (Certified)**  
-⚡ Solved **100+ DSA problems on LeetCode**  
-🤖 Passionate about **AI-powered full-stack applications**  
-🏏 College Cricket League participant  
+- 🎓 B.Tech CSE — SRM University AP (CGPA: 8.4)  
+- 🧠 LLM Apps Intern — Edubot (Certified)  
+- ⚡ Solved 100+ DSA problems on LeetCode  
+- 🤖 Interested in AI-powered full-stack applications  
 
-💡 I build **secure, scalable web apps** and integrate **AI/LLM capabilities** into real-world products.
+I enjoy building secure, scalable web applications and integrating LLM capabilities into practical products.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages:** Java, Python, C++, C, JavaScript  
+**Frontend:** HTML, CSS, React, Next.js  
+**Backend:** Node.js, Express, Flask, MongoDB, MySQL  
+**AI / CV:** TensorFlow, OpenCV  
+**Tools:** Git, GitHub, VS Code, Postman, Linux  
+
+---
+
+## 💼 Experience
+
+**Edubot — LLM Apps Intern (Aug 2025)**  
+- Built applications integrating Large Language Models via REST APIs  
+- Implemented rate limiting and secure API key handling  
+- Applied prompt engineering best practices  
+- Delivered end-to-end AI workflow demos  
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker with AI Insights  
+**Tech:** Flask • MySQL • JavaScript  
+
+- Income and expense tracking dashboard  
+- AI-based anomaly detection  
+- Automatic category suggestions  
+- Plain-English financial summaries  
+- JWT authentication  
+- CSV/PDF export  
+
+🔗 Repository:  
+https://github.com/jayanth-gh/Expense_Tracker
+
+---
+
+### 🎨 Gesture-Based Virtual Painting App  
+**Tech:** Python • OpenCV • MediaPipe  
+
+- Real-time hand gesture drawing  
+- Fingertip tracking system  
+- Gesture-based color selection and undo  
+- Low-latency performance optimization  
+- HCI-focused UX  
+
+---
+
+## 🏆 Achievements
+
+- Solved 100+ DSA problems on LeetCode  
+- Participated in multiple hackathons  
+- Certified LLM Apps Intern — Edubot  
+- College Cricket League player  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayanth-gh&show_icons=true&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=jayanth-gh&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth-gh&layout=compact&hide_border=true&cache_seconds=1800" height="160"/>
+</p>
+---
+
+## 🤝 Connect
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" />
-</p>
-
-### 🤖 AI / Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+📧 Email: <a href="mailto:jayanthilluru@gmail.com">jayanthilluru@gmail.com</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/jayanth-illuru-231b83290/">View Profile</a><br>
+🧩 LeetCode: <a href="https://leetcode.com/u/jayanth_lc/">Profile</a>
 </p>
 
 ---
 
-# 💼 Experience
-
-## 🧠 Edubot — LLM Apps Intern (Aug 2025)
-
-🔹 Built apps integrating **Large Language Models via REST APIs**  
-🔹 Implemented **rate limiting & secure API key management**  
-🔹 Applied **prompt engineering best practices**  
-🔹 Delivered end-to-end AI workflow demos  
-
----
-
-# 🚀 Featured Projects
-
-## 💰 Expense Tracker with AI Insights
-**Flask | MySQL | JavaScript**
-
-🔹 Income & expense tracking dashboard  
-🔹 AI-based anomaly detection  
-🔹 Auto category suggestions  
-🔹 Plain-English financial summaries  
-🔹 JWT authentication  
-🔹 CSV/PDF export  
-
-🔗 Repo: https://github.com/jayanth-gh/Expense_Tracker
-
----
-
-## 🎨 Gesture-Based Virtual Painting App
-**Python | OpenCV | MediaPipe**
-
-🔹 Real-time hand gesture drawing  
-🔹 Fingertip tracking system  
-🔹 Gesture-based color selection & undo  
-🔹 Low-latency optimized performance  
-🔹 HCI-focused UX  
-
----
-
-# 🏆 Achievements
-
-🏅 Solved 100+ DSA problems on LeetCode  
-🏁 Participated in multiple hackathons  
-🎓 Certified LLM Apps Intern — Edubot  
-🏏 College Cricket League player  
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayanth-gh&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanth-gh&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth-gh&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:jayanthilluru@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jayanth-illuru-231b83290/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/jayanth_lc/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
-
----
-
-<p align="center">
-⭐ If you find my work interesting, consider starring my repositories!
-</p>
+⭐ If my work interests you, feel free to star the repositories.
